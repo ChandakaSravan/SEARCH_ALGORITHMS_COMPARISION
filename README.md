@@ -1,0 +1,2 @@
+# SEARCH_ALGORITHMS_COMPARISION
+compares different searching techniques complexities
